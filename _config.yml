@@ -5,15 +5,15 @@ rdiscount:
   extensions: [smart]
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : Carlos Becker
-#production_url : http://so1dier.github.io/up/
-url: https://so1dier.github.io
-baseurl: /up/
+production_url : so1dier.github.io/up/
+#url: https://so1dier.github.io
+#baseurl: /up/
 description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
 disqus_shortname: caarlos0blog
-analytics: UA-32899481-1
-gauges: 50f2b533613f5d7c8000000c
+#analytics: UA-32899481-1
+#gauges: 50f2b533613f5d7c8000000c
 author :
   name : DG
-  github : caarlos0
-  twitter : caarlos0
+  #github : caarlos0
+  #twitter : caarlos0
   email: don.aus@gmail.com

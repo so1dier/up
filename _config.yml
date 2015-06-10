@@ -6,7 +6,7 @@ rdiscount:
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : DG
 #production_url : so1dier.github.io/up
-url: https://so1dier.github.io
+url: http://so1dier.github.io
 baseurl: up
 description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Carlos Alexandro Becker."
 disqus_shortname: caarlos0blog
